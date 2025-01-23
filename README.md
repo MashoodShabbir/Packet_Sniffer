@@ -65,7 +65,7 @@ This script works on unencrypted HTTP traffic. It cannot sniff encrypted HTTPS t
 Ensure you have proper authorization to monitor the specified network. Unauthorized sniffing of network traffic may be illegal and unethical.
 
 ## Arguments
-- **-i or --iface: Specifies the network interface to sniff packets on (e.g., eth0, wlan0).
+- -i or --iface: Specifies the network interface to sniff packets on (e.g., eth0, wlan0).
 
 ## Example Output
 ```bash
